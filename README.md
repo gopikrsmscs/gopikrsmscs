@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gopikrsmscs CS Grad At University of Texas at Arlington.
+- 👋 Hi, I’m @gopikrsmscs CS Grad student at The University of Texas at Arlington.
 - 👀 I’m interested in Machine Learning,Algorithms and Neural Networks.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning And Algorithms.
