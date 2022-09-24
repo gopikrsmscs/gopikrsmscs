@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gopikrishna Pavuluri CS Grad student at The University of Texas at Arlington.
+- 👋 Hi, I’m **Gopikrishna Pavuluri** CS Grad student @University of Texas at Arlington.
 - 👀 Experienced Software Development Engineer
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning And Algorithms.
