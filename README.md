@@ -5,9 +5,9 @@
 - 📫 How to reach me gopikrsmscs@gmail.com
 - 👀 Have a look at my personal website https://gopikrsh.com/
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopikrsmscs&theme=algolia&show_icons=true&locale=en" alt="gopikrsmscs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopikrsmscs&show_icons=true&locale=en" alt="gopikrsmscs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopikrsmscs&theme=algolia" alt="gopikrsmscs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopikrsmscs" alt="gopikrsmscs" /></p>
 
 
 
