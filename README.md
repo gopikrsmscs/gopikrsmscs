@@ -6,7 +6,7 @@ Computer science master’s candidate specialized in Machine Learning, Data Scie
 * 🌍  I'm based in Arlington, Texas
 * 🖥️  See my portfolio at [gopikrsh.com](http://gopikrsh.com)
 * ✉️  You can contact me at [gopikrsmscs@gmail.com](mailto:gopikrsmscs@gmail.com)
-* 🚀  I'm currently working on [Transformer]([http://github.com/gopikrsmscs/aws-ml-specialty-exam-guide](https://github.com/gopikrsmscs/transformer)
+* 🚀  I'm currently working on [Transformer](https://github.com/gopikrsmscs/transformer)
 * 🧠  I'm learning Transformers and Recommendation Systems.
 * ⚡  I am currently looking for ML,Applied Science, Data Science and Fullstack/Backend Engineer Roles.
 
