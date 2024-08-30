@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gopikrishna Pavuluri
 ============================================================================================================================================
-I'm Gopikrishna Pavuluri, a Computer Science master’s candidate specializing in Distributed Systems, Machine Learning, and Data Science, with a graduation year of 2023. I also hold a graduate certificate in deep learning from the University of Texas at Arlington.
+I'm Gopikrishna Pavuluri, a Computer Science master’s candidate specializing in Distributed Systems, Machine Learning, and Data Science. I also hold a graduate certificate in deep learning from the University of Texas at Arlington.
 
-* 🌍  I'm based in Arlington, Texas
+* 🌍  I'm based in Dallas, Texas
 * 🖥️  See my portfolio at [gopikrishna.ai](https://gopikrishna.ai)
 * ✉️  You can contact me at [gopikrsmscs@gmail.com](mailto:gopikrsmscs@gmail.com)
 * 🚀  I'm currently working on [Transformer](https://github.com/gopikrsmscs/transformer)
