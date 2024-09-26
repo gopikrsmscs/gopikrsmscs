@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [gopikrishna.ai](https://gopikrishna.ai)
 * ✉️  You can contact me at [gopikrsmscs@gmail.com](mailto:gopikrsmscs@gmail.com)
 * 🚀  I'm currently working on [Transformer](https://github.com/gopikrsmscs/transformer)
-* 🧠  I'm learning Transformers and Recommendation Systems.
 
 ### Skills
 
